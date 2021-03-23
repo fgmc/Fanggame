@@ -1,0 +1,19 @@
+
+[
+	
+	{
+		"pack_id" : "0091565e-b3c9-475c-8ee7-270cd12e099c",
+		"version" : [ 0, 0, 1 ]
+	},
+	
+	{
+		"pack_id" : "ca5d5c16-a7a3-4bf5-b07e-45f036d2fe6d",
+		"version" : [ 0, 0, 8 ]
+	},
+	
+	{
+		"pack_id" : "47ad8f95-88ea-46d8-b3c4-952655b5d49c",
+		"subpack" : "Ordinary Edition",
+		"version" : [ 1, 13, 2 ]
+	}
+]
